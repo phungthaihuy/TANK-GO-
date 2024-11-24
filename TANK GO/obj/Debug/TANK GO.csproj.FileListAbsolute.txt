@@ -1,0 +1,7 @@
+C:\Users\huy\source\repos\TANK GO\TANK GO\bin\Debug\TANK GO.exe.config
+C:\Users\huy\source\repos\TANK GO\TANK GO\bin\Debug\TANK GO.exe
+C:\Users\huy\source\repos\TANK GO\TANK GO\bin\Debug\TANK GO.pdb
+C:\Users\huy\source\repos\TANK GO\TANK GO\obj\Debug\TANK GO.csproj.AssemblyReference.cache
+C:\Users\huy\source\repos\TANK GO\TANK GO\obj\Debug\TANK GO.csproj.CoreCompileInputs.cache
+C:\Users\huy\source\repos\TANK GO\TANK GO\obj\Debug\TANK GO.exe
+C:\Users\huy\source\repos\TANK GO\TANK GO\obj\Debug\TANK GO.pdb
